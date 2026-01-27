@@ -18,3 +18,4 @@ This repository contains structured system design notes focused on:
 4. Extend diagrams as you learn
 
 Goal: Think like an architect, not just a coder.
+
